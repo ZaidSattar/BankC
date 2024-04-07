@@ -91,4 +91,3 @@ int main(int argc, char* argv[]) {
 }
 
 
-// Cited work: https://chat.openai.com/share/59123103-4560-4622-8164-31a3317bb96c
